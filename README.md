@@ -38,4 +38,5 @@ Such an algorithm uses the same policy for Acting and Updating.
 
 
 # Q-Learning Algorithm Pseudocode
-
+![Alt Text](https://huggingface.co/blog/assets/73_deep_rl_q_part2/Q-learning-2.jpg)
+"Photo by [Thomas Simonini](https://www.simoninithomas.com/) "
