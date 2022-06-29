@@ -48,3 +48,4 @@ Such an algorithm uses the same policy for Acting and Updating.
 ## Step 4: Update Q(St, At)
 
 # Q-Learning Equation
+![Alt Text](https://github.com/iiShreya/Q_Learning_with_FrozenLake/blob/master/images/q%20learning%20eqn.jpg)
