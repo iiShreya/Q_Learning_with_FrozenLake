@@ -12,7 +12,7 @@ Q-learning is a model-free, value based, off-policy Reinforcement Learning algor
 - Definition Keypoints:
 1. Model-Free
 2. Off-Policy
-3. Uese TD Approach
+3. Uses TD Approach
 4. Value Based Method
 
 ## Model-Free Algorithm
