@@ -47,4 +47,4 @@ Such an algorithm uses the same policy for Acting and Updating.
 ## Step 3: Performing action At, gets reward Rt+1 and next state St+1
 ## Step 4: Update Q(St, At)
 
-
+# Q-Learning Equation
