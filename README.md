@@ -5,17 +5,17 @@
 ![Alt Text](https://raw.githubusercontent.com/iiShreya/Q_Learning_with_FrozenLake/master/video/frozenLake.gif)
 
 
-# Q Learning
+# Q Learning Algorithm
 Q = "the Quality" of that action at that state.
 Q-learning is a model-free, value based, off-policy Reinforcement Learning algorithm which uses the Temporal Difference approach of updating the action-value function at each step instead of at the end of the episode, to learn the value of an action in a particular state. 
 
-- Keypoints:
+- Definition Keypoints:
 1. Model-Free
 2. Off-Policy
 3. Uese TD Approach
 4. Value Based Method
 
-## Model-Free Algorithma
+## Model-Free Algorithm
 These algorithms seek to learn the consequences of their actions through experience. Such an algorithm will carry out an action multiple times, learn from its actions and will adjust the policy (the strategy behind its actions) for optimal rewards, based on the outcomes. 
 
 Eg, Self-Driving Cars. 
