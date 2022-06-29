@@ -27,7 +27,7 @@ Eg, Playing Chess
 
 
 ## Off-Policy Algorithm
-Such an algorithm uses a diffrent policy for Acting and Updating.\ 
+Such an algorithm uses a diffrent policy for Acting and Updating.
 
 Eg, In Q-Learning Algorithm:\
 Acting Policy: Epsilon Greedy Policy\
