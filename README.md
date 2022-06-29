@@ -48,9 +48,9 @@ Such an algorithm uses the same policy for Acting and Updating.
 ## Step 4: Update Q(St, At)
 
 ## Simply, 
--Trains Q-Function (an action-value function) which internally is a Q-table that contains all the state-action pair values.
--Given a state and action, the Q-Function will search in its Q-table, the corresponding value.
--When the training is done, an optimal Q-function is obtained, which means an optimal Q-Table is obtained.
+-Trains Q-Function (an action-value function) which internally is a Q-table that contains all the state-action pair values.\
+-Given a state and action, the Q-Function will search in its Q-table, the corresponding value.\
+-When the training is done, an optimal Q-function is obtained, which means an optimal Q-Table is obtained.\
 -Since there is an optimal Q-function, there is an optimal policy because for each state the best action to take is now known. 
 
 # Q-Learning Equation
