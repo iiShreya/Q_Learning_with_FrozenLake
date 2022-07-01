@@ -14,6 +14,7 @@ Q-learning is a model-free, value based, off-policy Reinforcement Learning algor
 2. Off-Policy
 3. Uses TD Approach
 4. Value Based Method
+5. Control Problem
 
 ## Model-Free Algorithm
 These algorithms seek to learn the consequences of their actions through experience. Such an algorithm will carry out an action multiple times, learn from its actions and will adjust the policy (the strategy behind its actions) for optimal rewards, based on the outcomes.
