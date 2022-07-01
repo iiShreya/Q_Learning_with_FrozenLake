@@ -7,7 +7,7 @@
 
 # Q Learning Algorithm
 Q = "the Quality" of that action at that state.
-Q-learning is a model-free, value based, off-policy Reinforcement Learning algorithm which uses the Temporal Difference approach of updating the action-value function at each step instead of at the end of the episode, to learn the value of an action in a particular state. 
+Q-learning is a model-free, value based, off-policy Reinforcement Learning algorithm which uses the Temporal Difference Control approach of updating the action-value function at each step instead of at the end of the episode, to learn the value of an action in a particular state. 
 
 - Definition Keypoints:
 1. Model-Free
